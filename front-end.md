@@ -1,8 +1,8 @@
 <html>
 
-<head>
-    <ul> <h1> RESUMO FRONT-END </h1> </ul>
-</head>
+    <head>
+        <ul> <h1> RESUMO FRONT-END </h1> </ul>
+    </head>
 
 <body>
 
