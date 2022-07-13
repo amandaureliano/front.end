@@ -20,11 +20,26 @@
                                                     color: red;
                                                     }
                                                   </style>
+                                                  
     - tag <link> qual arquivo que estamos importando, qual o tipo de arquivo que estamos importando
            exemplo: <link href="styles.css" rel="stylesheet">
            
-    - seletores básicos:  seletor por elemento
-                          id: identificador, tem que ser unico (#)
-                          seletor de classe: pode ser reutilizada por varios elementos (.)
-    - seletor global: * seleciona todos os elementos e aplica uma regra de estilo
+    - seletores básicos:  seletor por elemento.
+                          id: identificador, tem que ser unico (#).
+                          seletor de classe: pode ser reutilizada por varios elementos (.).
+    - seletor global: * seleciona todos os elementos e aplica uma regra de estilo.
+    
+    - ordem de prioridade: se algum elemento tiver um estilo inline (ele vai prevalecer).
+                           tag style e arquivos css importados: tem a mesma ordem de prioridade (efeito cascata).
+                            efeito cascata: prevalece o que está por ultimo.
+    
+    - herança: estilo já pré definido.
+    
+    - especificidade: maior especificidade prevalece.
+        selector specificity: (0, 0, 0) serve como desempate, começando pelo primeiro numero da esquerda
+    
+    - combinadores de seletores: 
+        
+    
+    
     
