@@ -1,7 +1,7 @@
 <html>
 
    <head>
-       <ul> <h1> RESUMO FRONT-END </h1> </ul>
+       <ul> <h1> RESUMO FRONT-END HTML </h1> </ul>
     </head>
 
 <body>
