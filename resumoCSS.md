@@ -1,6 +1,4 @@
-  <head>
-       <ul> <h1> RESUMO FRONT-END CSS </h1> </ul>
-  </head>
+<h1>RESUMO FRONT-END CSS</h1>
 
     - O que é o CSS? é um jeito de especificar como os elementos HTML serão apresentados.
     - Sintaxe:  style="propriedade(color): valor(red)";
