@@ -1,6 +1,4 @@
-   <head>
-       <ul> <h1> RESUMO FRONT-END HTML </h1> </ul>
-    </head>
+<h1> RESUMO FRONT-END HTML</h1>
 
     - Diferença entre Back-end e Front-end?
 
