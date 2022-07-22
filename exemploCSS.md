@@ -1,6 +1,5 @@
-  <head>
-       <ul> <h1> EXEMPLOS FRONT-END CSS </h1> </ul>
-  </head>
+<h1>EXEMPLOS FRONT-END CSS</h1>
+
 
     <!DOCTYPE html>
     <html lang="pt">
